@@ -7,9 +7,6 @@ I turn raw data into decisions — building dashboards, cleaning messy datasets,
 📫 Reach me: www.linkedin.com/in/harman-masih-in · Khoslaharman71@gmail.com
 
 
-# 💫 About Me:
-👋 About Me<br>I'm Harman, a Data Analyst based in Punjab, India, with a B.Voc in Software Development (Batch 2023–2026) from CT Institute of Higher Studies, affiliated with Guru Nanak Dev University.<br>I turn raw data into decisions — building dashboards, cleaning messy datasets, and finding the story hiding in the numbers. My toolkit: Power BI (DAX, Power Query), Python (pandas, NumPy), SQL, Excel, and Tableau.<br>🔹 Currently sharpening my skills through hands-on industry simulations (Tata iQ, Deloitte) and real-world analytics work<br>🔹 Built a multi-city Airbnb dashboard analyzing listings across 10 global cities<br>🔹 Actively looking for data analytics opportunities — always open to interesting problems<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harman_masih01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harman-masih-in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khoslaharman71@gmail.com) 
