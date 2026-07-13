@@ -1,9 +1,6 @@
 # 👋 I'm Harman,
 A Data Analyst based in Punjab, India, with a B.Voc in Software Development (Batch 2023–2026) from CT Institute of Higher Studies, affiliated with Guru Nanak Dev University.
-I turn raw data into decisions — building dashboards, cleaning messy datasets, and finding the story hiding in the numbers. My toolkit: Power BI (DAX, Power Query), Python (pandas, NumPy), SQL, Excel, and Tableau.
-🔹 Currently sharpening my skills through hands-on industry simulations (Tata iQ, Deloitte) and real-world analytics work
-🔹 Built a multi-city Airbnb dashboard analyzing listings across 10 global cities
-🔹 Actively looking for data analytics opportunities — always open to interesting problems
+<br>I turn raw data into decisions — building dashboards, cleaning messy datasets, and finding the story hiding in the numbers. My toolkit: Power BI (DAX, Power Query), Python (pandas, NumPy), SQL, Excel, and Tableau.<br>🔹 Currently sharpening my skills through hands-on industry simulations (Tata iQ, Deloitte) and real-world analytics work<br>🔹 Built a multi-city Airbnb dashboard analyzing listings across 10 global cities<br>🔹 Actively looking for data analytics opportunities — always open to interesting problems<br>
 📫 Reach me: www.linkedin.com/in/harman-masih-in · Khoslaharman71@gmail.com
 
 
